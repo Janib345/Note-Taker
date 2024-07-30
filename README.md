@@ -56,8 +56,6 @@ Note Taker is a web application that allows users to create, read, update, and d
 ## Contributing
 Feel free to fork the repository and submit pull requests. For bug reports or feature requests, open an issue in the GitHub repository.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - Bootstrap for the responsive design framework.
